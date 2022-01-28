@@ -1,0 +1,5 @@
+= Hough Transformation
+
+== Aperture Mask
+* used to improve canny edge detection
+* determined by taking the mean image of all real images
